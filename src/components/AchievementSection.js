@@ -28,7 +28,7 @@ export default class AchievementSection extends Component {
                   >
                     <span className="dash-pointer">-</span>
                     <span className="achive-pts">
-                      First Price for Logo Design in Berman Design Award
+                    Codelearn - C++ for Beginners, Advanced C++
                     </span>
                   </li>
                   <li
@@ -38,7 +38,7 @@ export default class AchievementSection extends Component {
                   >
                     <span className="dash-pointer">-</span>
                     <span className="achive-pts">
-                      Honorable Mention at International Design Awards
+                    Codelearn - Data Structure and Algorithms (DS&A)
                     </span>
                   </li>
                   <li
@@ -47,17 +47,7 @@ export default class AchievementSection extends Component {
                     data-wow-delay=".4s"
                   >
                     <span className="dash-pointer">-</span>
-                    <span className="achive-pts">AICB New York, USA</span>
-                  </li>
-                  <li
-                    className="margin-bottom-xs wow fadeInUp"
-                    data-wow-duration=".4s"
-                    data-wow-delay=".6s"
-                  >
-                    <span className="dash-pointer">-</span>
-                    <span className="achive-pts">
-                      International CNDY Awards New York, USA
-                    </span>
+                    <span className="achive-pts">Complete ERP SIMULATION GAMES 2020 training (SAP S/4 HANA)</span>
                   </li>
                 </ul>
               </li>
@@ -70,7 +60,7 @@ export default class AchievementSection extends Component {
                   >
                     <span className="dash-pointer">-</span>
                     <span className="achive-pts">
-                      Drix Club des Directeurs Artistiques Paris, France
+                    Certificate of WordPress Programming
                     </span>
                   </li>
                   <li
@@ -80,7 +70,7 @@ export default class AchievementSection extends Component {
                   >
                     <span className="dash-pointer">-</span>
                     <span className="achive-pts">
-                      A&AD Awards (Yellow & Black Pencils) London, UK
+                    Certificates of excellent students in study and training
                     </span>
                   </li>
                   <li
@@ -90,18 +80,7 @@ export default class AchievementSection extends Component {
                   >
                     <span className="dash-pointer">-</span>
                     <span className="achive-pts">
-                      Global Dffie Awards New York, USA
-                    </span>
-                  </li>
-                  <li
-                    className="margin-bottom-xs wow fadeInUp"
-                    data-wow-duration=".6s"
-                    data-wow-delay=".6s"
-                  >
-                    <span className="dash-pointer">-</span>
-                    <span className="achive-pts">
-                      The Intercontinental Advertising Award (The Cup) (ICAA)
-                      Spain
+                    (IELTS qualification will be updated later)
                     </span>
                   </li>
                 </ul>

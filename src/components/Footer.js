@@ -18,28 +18,28 @@ export default class Footer extends Component {
                 {/* <!--Social Icons--> */}
                 <ul className="social-icons float-right">
                   <li>
-                    <a href="/#" className="social-icon">
+                    <a href="https://www.facebook.com/1ngaykhongxa" className="social-icon">
                       <span className="fa" data-hover="&#xf09a;">
                         &#xf09a;
                       </span>
                     </a>
                   </li>
                   <li>
-                    <a href="/#" className="social-icon">
+                    <a href="https://twitter.com/khoadq" className="social-icon">
                       <span className="fa" data-hover="&#xf099;">
                         &#xf099;
                       </span>
                     </a>
                   </li>
                   <li>
-                    <a href="/#" className="social-icon">
+                    <a href="https://www.linkedin.com/in/khoadq-2705" className="social-icon">
                       <span className="fa" data-hover="&#xf16e;">
-                        &#xf16e;
+                      &#xf0e1;
                       </span>
                     </a>
                   </li>
                   <li>
-                    <a href="/#" className="social-icon">
+                    <a href="https://www.instagram.com/khoadq/" className="social-icon">
                       <span className="fa" data-hover="&#xf16d;">
                         &#xf16d;
                       </span>
@@ -56,7 +56,7 @@ export default class Footer extends Component {
               <div className="copywrite-wrap text-right float-right">
                 <p className="copywrite">
                   Fabricated by <b>Khoadq &copy; 2021.</b> Updated &nbsp;
-                  <b>June, 2017.</b>
+                  <b>September, 2021.</b>
                 </p>
               </div>
             </div>

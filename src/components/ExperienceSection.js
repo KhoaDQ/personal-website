@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class ExperienceSection extends Component {
   render() {
@@ -23,17 +23,25 @@ export default class ExperienceSection extends Component {
                     data-wow-delay="0s"
                   >
                     <div className="col-sm-3 duration">
-                      <span>mar 2014 - present</span>
+                      <span>Sep 2021 - present</span>
                     </div>
                     <div className="col-sm-9">
-                      <span className="job-desn">UI Developer</span>
-                      <span className="job-loc">Fakebook Studio, New York</span>
+                      <span className="job-desn">Software Engineer</span>
+                      <span className="job-loc">
+                        NashTech, Ho Chi Minh City, Viet Nam
+                      </span>
                       <p className="job-summary p-small">
-                        In this small yet expanding company, I had the
-                        opportunity to turn my passion for the web in a job
-                        right after graduation. Being the only designer in the
-                        company I have often dealt with the whole process of
-                        designing for our customers.
+                        The Software Engineer (SE) is responsible to write
+                        software programs from design specifications; plans,
+                        execute and document unit tests; report status and
+                        issues; document detailed designs; accountable for unit
+                        test leakage. Write software programs from design
+                        specifications that are in compliance with established
+                        coding quality standard of the company; write unit tests
+                        ;run through all the test cases for assigned tasks and
+                        ensure all cases tested and passed before release for
+                        testing. Follow the company software development
+                        process.
                       </p>
                     </div>
                   </div>
@@ -52,26 +60,42 @@ export default class ExperienceSection extends Component {
                     data-wow-delay="0.2s"
                   >
                     <div className="col-sm-3 duration">
-                      <span>Jul 2013 — Mar 2014</span>
+                      <span>Jun 2021 — Sep 2021</span>
                     </div>
                     <div className="col-sm-9">
-                      <span className="job-desn">
-                        Visual Communication Designer
+                      <span className="job-desn">.NET Intern</span>
+                      <span className="job-loc">
+                        NashTech, Ho Chi Minh City, Viet Nam
                       </span>
-                      <span className="job-loc">Dropzone, NYC</span>
                       <p className="job-summary p-small">
-                        Being in a very well structured company, with clear and
-                        defined work procedures, helped me grow both personally
-                        and professionally, as well as enjoying a young and
-                        international working environment. I had the opportunity
-                        to redefine the way I work in a more intelligent way.
+                        Learning the knowledge of the .NET programming language.
+                        With all knowledge of .NET Engineers:
+                        <br></br>+ Web Basic & Tooling
+                        <br></br>+ Database Fundamentals
+                        <br></br>+ .NET, ASP.NET Core
+                        <br></br>+ Unit Test
+                        <br></br>+ Front-End: ReactJS
+                        <br></br>+ Azure Fundamentals
+                        <br></br>+ Practice in real project
+                        <br></br>
+                        <br></br>
+                        Actual work involved:
+                        <br></br>+ Take courses with both soft skills and
+                        English
+                        <br></br>+ Build Asset Management Website using ASP.NET
+                        core, ReactJs and Redux and Oidc, Identity Server 4, MS
+                        SQL server, Refit library (Service to Service
+                        comunication) on Backend
+                        <br></br>+ Role: Team leader (Support) - Developer
+                        <br></br>+ Take the Speaking test at the end of the
+                        practice course
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="row exp-timeline">
+            {/* <div className="row exp-timeline">
               <div className="col-xs-2">
                 <div className="timeline-st"></div>
               </div>
@@ -97,8 +121,8 @@ export default class ExperienceSection extends Component {
                   </div>
                 </div>
               </div>
-            </div>
-            <div className="row exp-timeline">
+            </div> */}
+            {/* <div className="row exp-timeline">
               <div className="col-xs-2">
                 <div className="timeline-st"></div>
               </div>
@@ -125,7 +149,7 @@ export default class ExperienceSection extends Component {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </section>
         {/* <!--/Experience Sec--> */}

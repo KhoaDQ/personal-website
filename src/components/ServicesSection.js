@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class ServicesSection extends Component {
   render() {
@@ -17,7 +17,7 @@ export default class ServicesSection extends Component {
               data-wow-delay="0s"
             >
               <span className="icon pe-7s-graph3"></span>
-              <span className="key-fact">ANALYSIS</span>
+              <span className="key-fact">FRONTEND-REACTJS</span>
             </div>
             <div
               className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft"
@@ -25,7 +25,7 @@ export default class ServicesSection extends Component {
               data-wow-delay=".1s"
             >
               <span className="icon pe-7s-browser"></span>
-              <span className="key-fact">PROGRAMMING</span>
+              <span className="key-fact">BACKEND-DOTNET</span>
             </div>
             <div
               className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft"
@@ -33,7 +33,7 @@ export default class ServicesSection extends Component {
               data-wow-delay=".2s"
             >
               <span className=" icon pe-7s-tools"></span>
-              <span className="key-fact">TESTING</span>
+              <span className="key-fact">DATABASE DESIGN</span>
             </div>
             <div
               className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft"

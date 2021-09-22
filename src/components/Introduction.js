@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class Introduction extends Component {
   render() {
@@ -15,27 +15,47 @@ export default class Introduction extends Component {
           </h1>
           <h6>about</h6>
           <p className="pad-bottom-35 wow fadeInUp" data-wow-duration=".6s">
-            Award winning interdisciplinary Designer and Photographer. Currently
-            pursuing a perfect blend of style and function for a wide range of
-            interactive graphic design. For the past 6 years I've helped global
-            companies, organizations and start-ups reach business goals with
-            user focused, interactive design. I enjoy bringing clarity to
-            complex problems with a people first approach.
+            With my efforts and will to strive in the university, I repeatedly
+            achieved excellent results at the end of the semester and was
+            rewarded by the university. Besides, with the position of Software
+            Engineer at NashTech, I will constantly learn, try to develop my
+            knowledge, skills and experience to bring value to the company and
+            help the company reach business goals in Microsoft .NET domain. I
+            enjoy bringing clarity to complex problems with a people first
+            approach.
           </p>
           <p className="wow fadeInUp" data-wow-duration=".4s">
-            I am a complete social animal. Find my work on
-            <a className="goto-social" href="/#" target="_blank">
-              Behance
+            I am a complete social person. Find my work on &nbsp;
+            <a
+              className="goto-social"
+              href="https://www.linkedin.com/in/khoadq-2705"
+              target="_blank"
+            >
+              Linkedin
             </a>
-            <a href="/#" className="goto-social" target="_blank">
-              Dribbble
+            &nbsp; & &nbsp;
+            <a
+              href="https://github.com/KhoaDQ"
+              className="goto-social"
+              target="_blank"
+            >
+              Github
             </a>
-            . Experience my photography skills on
-            <a href="/#" className="goto-social" target="_blank">
+            . Experience my social networking activities on &nbsp;
+            <a
+              href="https://www.instagram.com/khoadq/"
+              className="goto-social"
+              target="_blank"
+            >
               Instagram
             </a>
-            <a className="goto-social" href="/#" target="_blank">
-              Flickr
+            &nbsp; & &nbsp;
+            <a
+              className="goto-social"
+              href="https://www.facebook.com/1ngaykhongxa"
+              target="_blank"
+            >
+              Facebook
             </a>
             .
           </p>

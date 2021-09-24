@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class WorkSection extends Component {
   render() {
@@ -19,90 +19,90 @@ export default class WorkSection extends Component {
             >
               <li
                 className="item"
-                data-src="assets/img/mock1.jpg"
-                data-sub-html="<h6>DESIGN LAB</h6><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+                data-src="assets/img/Proactive.png"
+                data-sub-html="<h6>PROACTIVE</h6><p>I take an active role in dealing with something before it needs to be taken care of.</p>"
               >
                 <a href="/#">
                   <img
                     className="img-responsive"
-                    src="assets/img/mock1.jpg"
-                    alt=" descriptio"
+                    src="assets/img/Proactive.png"
+                    alt=" description"
                   />
-                  <span className="hover-cap">DESIGN LAB</span>
+                  <span className="hover-cap">Proactive</span>
                 </a>
               </li>
               <li
                 className="item"
-                data-src="http://www.youtube.com/watch?v=Pq9yPrLWMyU"
-                data-poster="assets/img/mock2.jpg"
-                data-sub-html="<h6>MODERN WORK</h6><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+                data-src="assets/img/Effective.png"
+                //data-poster="assets/img/Effective.png"
+                data-sub-html="<h6>EFFECTIVE</h6><p>I would like to have a particular role or result in practice, though not officially or in theory in the work which I do.</p>"
               >
                 <a href="/#">
                   <img
                     className="img-responsive"
-                    src="assets/img/mock2.jpg"
-                    alt="descripti"
+                    src="assets/img/Effective.png"
+                    alt="description"
                   />
-                  <span className="hover-cap">MODERN WORK</span>
+                  <span className="hover-cap">Effective</span>
                 </a>
               </li>
               <li
                 className="item"
-                data-src="assets/img/mock4.jpg"
-                data-sub-html="<h6>UX PLATFORM</h6><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+                data-src="assets/img/Progressive.png"
+                data-sub-html="<h6>PROGRESSIVE</h6><p>I have the spirit of always wanting to learn and accumulate for myself to improve and achieve many high achievements.</p>"
               >
                 <a href="/#">
                   <img
                     className="img-responsive"
-                    src="assets/img/mock4.jpg"
-                    alt=" descript"
+                    src="assets/img/Progressive.png"
+                    alt=" description"
                   />
-                  <span className="hover-cap">UX PLATFORM</span>
+                  <span className="hover-cap">Progressive</span>
                 </a>
               </li>
               <li
                 className="item"
-                data-src="http://vimeo.com/1084537"
-                data-poster="assets/img/mock3.jpg"
-                data-sub-html="<h6>MONOBRANDING</h6><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+                data-src="assets/img/Optimistic.png"
+                //data-poster="assets/img/Optimistic.png"
+                data-sub-html="<h6>OPTIMISTIC</h6><p>I am an optimist who always wants to see things in a positive light. I believe that there is a way out of all difficulties if we are determined enough.</p>"
               >
                 <a href="/#">
                   <img
                     className="img-responsive"
-                    src="assets/img/mock3.jpg"
-                    alt=" descri"
+                    src="assets/img/Optimistic.png"
+                    alt=" description"
                   />
-                  <span className="hover-cap">MONOBRANDING</span>
+                  <span className="hover-cap">Optimistic</span>
                 </a>
               </li>
 
               <li
                 className="item"
-                data-src="assets/img/mock5.jpg"
-                data-sub-html="<h6>FALL/WINTER</h6><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+                data-src="assets/img/Logic.png"
+                data-sub-html="<h6>LOGIC THINKING</h6><p>I complete my work by observing, analyzing, and reasoning to make decisions from primary data.</p>"
               >
                 <a href="/#">
                   <img
                     className="img-responsive"
-                    src="assets/img/mock5.jpg"
-                    alt=" desc"
+                    src="assets/img/Logic.png"
+                    alt=" description"
                   />
-                  <span className="hover-cap">FALL/WINTER</span>
+                  <span className="hover-cap">Logic thinking</span>
                 </a>
               </li>
               <li
                 className="item"
                 data-html="#video1"
-                data-poster="assets/img/mock6.jpg"
-                data-sub-html="<h6>FANTASTIC MAN</h6><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+                data-poster="assets/img/Creative.png"
+                data-sub-html="<h6>CREATIVE</h6><p>I always would like to brainstorm to find new useful ideas and solutions to solve problems.</p>"
               >
                 <a href="/#">
                   <img
                     className="img-responsive"
-                    src="assets/img/mock6.jpg"
-                    alt=" descr"
+                    src="assets/img/Creative.png"
+                    alt=" description"
                   />
-                  <span className="hover-cap">FANTASTIC MAN</span>
+                  <span className="hover-cap">Creative</span>
                 </a>
               </li>
             </ul>

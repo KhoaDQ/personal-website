@@ -29,31 +29,21 @@ export default class Introduction extends Component {
             <a
               className="goto-social"
               href="https://www.linkedin.com/in/khoadq-2705"
-              target="_blank"
             >
               Linkedin
             </a>
             &nbsp; & &nbsp;
-            <a
-              href="https://github.com/KhoaDQ"
-              className="goto-social"
-              target="_blank"
-            >
+            <a href="https://github.com/KhoaDQ" className="goto-social">
               Github
             </a>
             . Experience my social networking activities on &nbsp;
-            <a
-              href="https://www.instagram.com/khoadq/"
-              className="goto-social"
-              target="_blank"
-            >
+            <a href="https://www.instagram.com/khoadq/" className="goto-social">
               Instagram
             </a>
             &nbsp; & &nbsp;
             <a
               className="goto-social"
               href="https://www.facebook.com/1ngaykhongxa"
-              target="_blank"
             >
               Facebook
             </a>

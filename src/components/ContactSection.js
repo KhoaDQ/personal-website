@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class ContactSection extends Component {
   render() {
@@ -9,7 +9,8 @@ export default class ContactSection extends Component {
           id="contact_sec"
           className="col-lg-10 col-md-11 col-sm-11 center-div contact-wrap  sec-pad-top sec-pad-bottom-sm"
         >
-          <h6 className="mb-4">contact</h6>
+          <h6 className="mb-4">contact</h6>{" "}
+          <div className="text-danger">(UPDATE SOON)</div>
           <div
             data-ng-controller="ContactController"
             className="align-center wow fadeInUp"
@@ -96,7 +97,6 @@ export default class ContactSection extends Component {
               {/* <p data-ng-className="result"> resultMessage </p> */}
             </div>
           </div>
-
           <div className="email-direct">
             <p className="wow fadeInRight" data-wow-duration=".4s">
               Or simply email me at &nbsp;
